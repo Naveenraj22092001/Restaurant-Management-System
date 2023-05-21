@@ -9,10 +9,10 @@
 
 
 
-<h3 align="center">Swag India</h3>
+<h3 align="center">Restaurant Management System</h3>
 
 ---
 
-<p align="center"> 
+<p align="center"> This app is used for Restaurant management. To reduce the work of the Restaurant's Employee.
     <br> 
 </p>

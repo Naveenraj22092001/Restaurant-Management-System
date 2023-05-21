@@ -16,3 +16,16 @@
 <p align="center"> This app is used for Restaurant management. To reduce the work of the Restaurant's Employee.
     <br> 
 </p>
+
+---
+
+## 📝 Table of Contents
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Flow Chart](#flowchart)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)

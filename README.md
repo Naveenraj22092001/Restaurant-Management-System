@@ -82,3 +82,10 @@ Here we can explain the step by step procedure to install those above softwares.
   <a href="" rel="noopener">
  <img width=500px height=200px src="Main page.png" alt="Project logo"></a>
 </p>
+
+
+2. After this We can give the input. i.e., Number of products which the customer buys.
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="Give Input.png" alt="Project logo"></a>
+</p>

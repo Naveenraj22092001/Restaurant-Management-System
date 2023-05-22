@@ -108,3 +108,16 @@ Here we can explain the step by step procedure to install those above softwares.
   <a href="" rel="noopener">
  <img width=500px height=200px src="Reciept.png" alt="Project logo"></a>
 </p>
+
+
+ 5. Then we click "Reset" Button, it goes to normal page.
+   <p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="After Reset.png" alt="Project logo"></a>
+</p>
+
+ 6. Then if we click Exit button. It shows popup menu. If we click "Yes", it will close. Otherwise, it backs to the page.
+   <p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="Exit.png" alt="Project logo"></a>
+</p>

@@ -80,5 +80,5 @@ Here we can explain the step by step procedure to install those above softwares.
 1. This is the main page of our Project.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="Main Page.png" alt="Project logo"></a>
+ <img width=500px height=200px src="Main page.png" alt="Project logo"></a>
 </p>

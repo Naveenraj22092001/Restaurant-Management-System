@@ -121,3 +121,8 @@ Here we can explain the step by step procedure to install those above softwares.
   <a href="" rel="noopener">
  <img width=500px height=200px src="Exit.png" alt="Project logo"></a>
 </p>
+
+
+## ⛏️ Flow Chart <a name = "flowchart"></a>
+
+![bg width:1000px](./Flow Chart.png)

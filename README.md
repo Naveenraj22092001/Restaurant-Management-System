@@ -29,3 +29,7 @@
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
+
+
+## 🧐 About <a name = "about"></a>
+Restaurant Management Software assists restaurant owners and managers with automation of administrative tasks, workforce management & scheduling, inventory tracking & control, orders, and payroll.There is some overlap between restaurant management software and POS systems. Restaurant POS systems are primarily concerned with taking customers orders, submitting orders to the kitchen, processing payments, and providing basic analytics.

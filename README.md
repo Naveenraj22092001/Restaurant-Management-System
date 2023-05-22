@@ -127,5 +127,5 @@ Here we can explain the step by step procedure to install those above softwares.
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=500px src="Flow Chart.png" alt="Project logo"></a>
+ <img width=700px height=500px src="Flow Chart.png" alt="Project logo"></a>
 </p>

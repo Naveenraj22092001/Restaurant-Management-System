@@ -96,12 +96,12 @@ Here we can explain the step by step procedure to install those above softwares.
   <a href="" rel="noopener">
  <img width=500px height=200px src="Total.png" alt="Project logo"></a>
 </p>
-    3.1 After click the total button, we add the Meals products and Drinks products cost.
-    3.2 And then add Cost of Meals and Drinks as "Total cost of items"
-    3.3 And then it showed as "Sub-total" in another category.
-    3.4 Then the main thing is calculate the tax cost for total amount.
-        3.4.1 Tax formula = Total amount - (Total amount * 0.90)
-    3.5 And then finally shows the Total amount. i.e., "Sub total + Tax ". Name as "Total".
+    - After click the total button, we add the Meals products and Drinks products cost.
+    - And then add Cost of Meals and Drinks as "Total cost of items"
+    - And then it showed as "Sub-total" in another category.
+    - Then the main thing is calculate the tax cost for total amount.
+        - Tax formula = Total amount - (Total amount * 0.90)
+    - And then finally shows the Total amount. i.e., "Sub total + Tax ". Name as "Total".
  
  
  4. After this we click the Reciept button. Then it shows all details i.e., date, amount, tax etc.,

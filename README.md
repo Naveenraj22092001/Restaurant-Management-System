@@ -145,3 +145,9 @@ Here we can explain the step by step procedure to install those above softwares.
 
 ## ✍️ Authors <a name = "authors"></a>
 - [Naveenraj B@skillync](https://github.com/Naveenraj22092001) - FSD
+
+
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+<p>References <br>
+  Youtube - DJ Oamen , HHV Technology, Tecno SL studio.
+  

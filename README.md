@@ -75,3 +75,10 @@ Here we can explain the step by step procedure to install those above softwares.
     i. Click on the “Install” button.
     h. After complication of the setup you can click on the “Finish” button or you can also register the Software, for Further Assistance because it is a Free Software.
 ```
+
+## 🔧 Running the tests <a name = "tests"></a>
+1. This is the main page of our Project.
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="Main Page.png" alt="Project logo"></a>
+</p>

@@ -129,3 +129,17 @@ Here we can explain the step by step procedure to install those above softwares.
   <a href="" rel="noopener">
  <img width=700px height=500px src="Flow Chart.png" alt="Project logo"></a>
 </p>
+
+
+## 🎈 Usage <a name="usage"></a>
+<p>
+  1. All-in-One Solution
+  <br>
+  2. Hardware Compatibility
+  <br>
+  3. User-friendliness
+  <br>
+  4. Decrease the work of Employees
+</p>
+## ✍️ Authors <a name = "authors"></a>
+- [Naveenraj B@skillync](https://github.com/Naveenraj22092001) - FSD
